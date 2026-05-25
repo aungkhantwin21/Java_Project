@@ -1,1 +1,1 @@
-# Java_Project
+The AIA Life and Health Insurance System is a Java-based application developed to manage customer insurance information efficiently. The system allows users to enter personal details, select insurance packages, calculate premiums based on smoking status, and access regional manager contact information through a user-friendly interface using JOptionPane. The project applies object-oriented programming concepts, input validation, and error handling to create a structured and scalable insurance management solution.
